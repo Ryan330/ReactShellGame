@@ -63,6 +63,18 @@ body {
     font-size: 30px;
 }
 
+.customTextCorrect {
+    font-size: 48px;
+
+    color: rgb(56, 238, 71);
+}
+
+.customTextWrong {
+    font-size: 48px;
+
+    color: rgb(255, 65, 65);
+}
+
 
 .nutNumbers {
     font-size: 30px;
